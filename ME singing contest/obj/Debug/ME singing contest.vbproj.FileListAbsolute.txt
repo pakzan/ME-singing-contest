@@ -1,0 +1,17 @@
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\ME singing contest.exe.config
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\ME singing contest.exe
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\ME singing contest.pdb
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\ME singing contest.xml
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.vbprojResolveAssemblyReference.cache
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME_singing_contest.Form1.resources
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME_singing_contest.Resources.resources
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.vbproj.GenerateResource.Cache
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.exe
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.xml
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.pdb
+c:\users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME_singing_contest.Form2.resources
+C:\Users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\Interop.WMPLib.dll
+C:\Users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\obj\Debug\ME singing contest.vbproj.ResolveComReference.cache
+C:\Users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\Interop.WMPLib.dll
+C:\Users\tpz\documents\visual studio 2015\Projects\ME singing contest\ME singing contest\bin\Debug\AxInterop.WMPLib.dll
